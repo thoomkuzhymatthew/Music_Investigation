@@ -1,0 +1,1305 @@
+{
+    "Taylor Swift": {
+        "artist_id": "06HL4z0CvFAxyc27GXpf02",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Olivia Rodrigo",
+            "Ariana Grande",
+            "Billie Eilish",
+            "Harry Styles",
+            "Shawn Mendes",
+            "Halsey",
+            "Selena Gomez"
+        ],
+        "match_count": 7
+    },
+    "The Weeknd": {
+        "artist_id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "SZA",
+            "Doja Cat",
+            "Rihanna",
+            "Drake",
+            "The Kid LAROI",
+            "Travis Scott",
+            "Billie Eilish",
+            "Ariana Grande",
+            "Bruno Mars",
+            "Justin Bieber",
+            "Camila Cabello"
+        ],
+        "match_count": 11
+    },
+    "Drake": {
+        "artist_id": "3TVXtAsR1Inumwj472S9r4",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "21 Savage",
+            "Future",
+            "J. Cole",
+            "Travis Scott",
+            "Lil Wayne",
+            "Kanye West",
+            "Lil Baby"
+        ],
+        "match_count": 7
+    },
+    "Bad Bunny": {
+        "artist_id": "4q3ewBCX7sLwd24euuV69X",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Tainy",
+            "Rauw Alejandro",
+            "Ozuna",
+            "J Balvin",
+            "Myke Towers",
+            "Maluma",
+            "Plan B",
+            "Yandel"
+        ],
+        "match_count": 8
+    },
+    "Ed Sheeran": {
+        "artist_id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Shawn Mendes",
+            "Maroon 5",
+            "Adele",
+            "Justin Bieber"
+        ],
+        "match_count": 4
+    },
+    "Justin Bieber": {
+        "artist_id": "1uNFoZAHBGtllmzznpCI3s",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Shawn Mendes",
+            "Bruno Mars",
+            "Ariana Grande",
+            "Maroon 5",
+            "Camila Cabello",
+            "Selena Gomez",
+            "Ed Sheeran",
+            "Rihanna",
+            "Khalid"
+        ],
+        "match_count": 9
+    },
+    "Ariana Grande": {
+        "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Camila Cabello",
+            "Justin Bieber",
+            "Selena Gomez",
+            "Bruno Mars",
+            "Taylor Swift",
+            "Rihanna",
+            "Olivia Rodrigo",
+            "Doja Cat",
+            "Shawn Mendes",
+            "Dua Lipa",
+            "Billie Eilish"
+        ],
+        "match_count": 11
+    },
+    "Eminem": {
+        "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Kanye West",
+            "Lil Wayne",
+            "Post Malone"
+        ],
+        "match_count": 3
+    },
+    "Billie Eilish": {
+        "artist_id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Olivia Rodrigo",
+            "Ariana Grande",
+            "The Weeknd",
+            "Bruno Mars",
+            "Adele",
+            "Taylor Swift",
+            "Harry Styles"
+        ],
+        "match_count": 7
+    },
+    "Post Malone": {
+        "artist_id": "246dkjvS1zLTtiykXe5h60",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Marshmello",
+            "Khalid",
+            "The Kid LAROI",
+            "The Weeknd",
+            "Halsey",
+            "Justin Bieber",
+            "Bruno Mars"
+        ],
+        "match_count": 7
+    },
+    "BTS": {
+        "artist_id": "3Nrfpe0tUJi4K4DXYWgMUX",
+        "related_artists_count": 20,
+        "matches_with_top_100": [],
+        "match_count": 0
+    },
+    "J Balvin": {
+        "artist_id": "1vyhD5VmyZ7KMfW5gqLgo5",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Ozuna",
+            "Nicky Jam",
+            "Maluma",
+            "Daddy Yankee",
+            "Farruko",
+            "Zion & Lennox",
+            "Bad Bunny",
+            "Becky G",
+            "Wisin",
+            "Sech",
+            "Plan B"
+        ],
+        "match_count": 11
+    },
+    "Kanye West": {
+        "artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "J. Cole",
+            "Kendrick Lamar",
+            "Travis Scott",
+            "Drake",
+            "21 Savage",
+            "Lil Wayne",
+            "Future"
+        ],
+        "match_count": 7
+    },
+    "Rihanna": {
+        "artist_id": "5pKCCKE2ajJHZ9KAiaK11H",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Nicki Minaj",
+            "Camila Cabello",
+            "Selena Gomez",
+            "The Weeknd",
+            "Ariana Grande"
+        ],
+        "match_count": 5
+    },
+    "Doja Cat": {
+        "artist_id": "5cj0lLjcoR7YOSnhnX0Po5",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "The Weeknd",
+            "Ariana Grande",
+            "Nicki Minaj",
+            "Cardi B",
+            "SZA",
+            "Rihanna",
+            "Megan Thee Stallion",
+            "Camila Cabello",
+            "Billie Eilish"
+        ],
+        "match_count": 9
+    },
+    "Olivia Rodrigo": {
+        "artist_id": "1McMsnEElThX1knmY4oliG",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Taylor Swift",
+            "Billie Eilish",
+            "Harry Styles",
+            "Ariana Grande",
+            "Adele",
+            "Shawn Mendes"
+        ],
+        "match_count": 6
+    },
+    "Dua Lipa": {
+        "artist_id": "6M2wZ9GZgrQXHCFfjv46we",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Camila Cabello",
+            "Selena Gomez",
+            "Ariana Grande",
+            "Marshmello"
+        ],
+        "match_count": 4
+    },
+    "Travis Scott": {
+        "artist_id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "21 Savage",
+            "Future",
+            "Drake",
+            "Kanye West",
+            "Kendrick Lamar"
+        ],
+        "match_count": 5
+    },
+    "Kendrick Lamar": {
+        "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Kanye West",
+            "J. Cole",
+            "Travis Scott",
+            "Future",
+            "Lil Wayne",
+            "Drake",
+            "21 Savage"
+        ],
+        "match_count": 7
+    },
+    "Lil Nas X": {
+        "artist_id": "7jVv8c5Fj3E9VhNjxT4snq",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Doja Cat",
+            "Dua Lipa",
+            "Imagine Dragons",
+            "Marshmello",
+            "Camila Cabello"
+        ],
+        "match_count": 5
+    },
+    "Shawn Mendes": {
+        "artist_id": "7n2wHs1TKAczGzO7Dd2rGr",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Ed Sheeran",
+            "Camila Cabello",
+            "Selena Gomez",
+            "Justin Bieber",
+            "Bruno Mars",
+            "Maroon 5",
+            "Halsey"
+        ],
+        "match_count": 7
+    },
+    "Harry Styles": {
+        "artist_id": "6KImCVD70vtIoJWnq6nGn3",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Olivia Rodrigo",
+            "Adele",
+            "Shawn Mendes",
+            "Taylor Swift",
+            "Billie Eilish",
+            "Ed Sheeran",
+            "Dua Lipa",
+            "Bruno Mars",
+            "Selena Gomez"
+        ],
+        "match_count": 9
+    },
+    "Maroon 5": {
+        "artist_id": "04gDigrS5kc9YWfZHwBETP",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Ed Sheeran",
+            "Bruno Mars",
+            "Shawn Mendes",
+            "Justin Bieber"
+        ],
+        "match_count": 4
+    },
+    "Imagine Dragons": {
+        "artist_id": "53XhwfbYqKCa1cC15pYq2q",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Maroon 5",
+            "Ed Sheeran",
+            "Marshmello",
+            "Shawn Mendes"
+        ],
+        "match_count": 4
+    },
+    "Cardi B": {
+        "artist_id": "4kYSro6naA4h99UJvo89HB",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Nicki Minaj",
+            "Doja Cat",
+            "Rihanna",
+            "Megan Thee Stallion",
+            "Chris Brown",
+            "Camila Cabello"
+        ],
+        "match_count": 6
+    },
+    "Juice WRLD": {
+        "artist_id": "4MCBfE4596Uoi2O4DtmEMz",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Travis Scott",
+            "21 Savage",
+            "The Kid LAROI",
+            "Lil Baby"
+        ],
+        "match_count": 4
+    },
+    "Lil Baby": {
+        "artist_id": "5f7VJjfbwm532GiveGC0ZK",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Future",
+            "21 Savage",
+            "Drake"
+        ],
+        "match_count": 3
+    },
+    "SZA": {
+        "artist_id": "7tYKF4w9nC0nq9CsPZTHyP",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "The Weeknd",
+            "Doja Cat",
+            "Drake",
+            "Ariana Grande"
+        ],
+        "match_count": 4
+    },
+    "Future": {
+        "artist_id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "21 Savage",
+            "Drake",
+            "Travis Scott",
+            "Lil Baby",
+            "Lil Wayne"
+        ],
+        "match_count": 5
+    },
+    "The Kid LAROI": {
+        "artist_id": "2tIP7SsRs7vjIcLrU85W8J",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Post Malone",
+            "The Weeknd",
+            "Juice WRLD",
+            "Travis Scott",
+            "Drake",
+            "SZA",
+            "Justin Bieber",
+            "Future"
+        ],
+        "match_count": 8
+    },
+    "Badshah": {
+        "artist_id": "0y59o4v8uw5crbN9M3JiL1",
+        "related_artists_count": 20,
+        "matches_with_top_100": [],
+        "match_count": 0
+    },
+    "Anitta": {
+        "artist_id": "7FNnA9vBm6EKceENgCGRMb",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "J Balvin",
+            "Shakira",
+            "Becky G"
+        ],
+        "match_count": 3
+    },
+    "Camila Cabello": {
+        "artist_id": "4nDoRrQiYLoBzwC5BhVJzF",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Selena Gomez",
+            "Shawn Mendes",
+            "Ariana Grande",
+            "Dua Lipa",
+            "Halsey",
+            "Justin Bieber",
+            "Rihanna",
+            "Marshmello"
+        ],
+        "match_count": 8
+    },
+    "Selena Gomez": {
+        "artist_id": "0C8ZW7ezQVs4URX5aX7Kqx",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Camila Cabello",
+            "Halsey",
+            "Shawn Mendes",
+            "Ariana Grande",
+            "Justin Bieber",
+            "Rihanna"
+        ],
+        "match_count": 6
+    },
+    "Halsey": {
+        "artist_id": "26VFTg2z8YR0cCuwLzESi2",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Selena Gomez",
+            "Camila Cabello",
+            "Shawn Mendes",
+            "Khalid",
+            "Marshmello",
+            "Ariana Grande"
+        ],
+        "match_count": 6
+    },
+    "Nicki Minaj": {
+        "artist_id": "0hCNtLu0JehylgoiP8L4Gh",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Cardi B",
+            "Rihanna",
+            "Doja Cat",
+            "Ariana Grande",
+            "Chris Brown",
+            "Megan Thee Stallion"
+        ],
+        "match_count": 6
+    },
+    "Lil Wayne": {
+        "artist_id": "55Aa2cqylxrFIXC767Z865",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "J. Cole",
+            "Drake",
+            "Future",
+            "Kanye West",
+            "21 Savage"
+        ],
+        "match_count": 5
+    },
+    "21 Savage": {
+        "artist_id": "1URnnhqYAYcrqrcwql10ft",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Travis Scott",
+            "Future",
+            "Drake",
+            "Lil Baby",
+            "J. Cole"
+        ],
+        "match_count": 5
+    },
+    "Megan Thee Stallion": {
+        "artist_id": "181bsRPaVXVlUKXrxwZfHK",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Nicki Minaj",
+            "Doja Cat",
+            "Cardi B",
+            "Ariana Grande"
+        ],
+        "match_count": 4
+    },
+    "Khalid": {
+        "artist_id": "6LuN9FCkKOj5PcnpouEgny",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Post Malone",
+            "Halsey",
+            "Justin Bieber",
+            "Camila Cabello",
+            "Marshmello",
+            "Selena Gomez",
+            "The Weeknd",
+            "Shawn Mendes"
+        ],
+        "match_count": 8
+    },
+    "Lizzo": {
+        "artist_id": "56oDRnqbIiwx4mymNEv7dS",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Dua Lipa",
+            "Harry Styles",
+            "Lil Nas X",
+            "Cardi B",
+            "Camila Cabello"
+        ],
+        "match_count": 5
+    },
+    "J. Cole": {
+        "artist_id": "6l3HvQ5sa6mXTsMTB19rO5",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Drake",
+            "Lil Wayne",
+            "Kanye West",
+            "21 Savage",
+            "Kendrick Lamar",
+            "Future",
+            "Travis Scott"
+        ],
+        "match_count": 7
+    },
+    "Adele": {
+        "artist_id": "4dpARuHxo51G3z768sgnrY",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Ed Sheeran",
+            "Bruno Mars",
+            "Shawn Mendes",
+            "Harry Styles",
+            "Maroon 5",
+            "Rihanna"
+        ],
+        "match_count": 6
+    },
+    "Bruno Mars": {
+        "artist_id": "0du5cEVh5yTK9QJze8zA0C",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Maroon 5",
+            "Justin Bieber",
+            "Shawn Mendes",
+            "Ariana Grande",
+            "Adele",
+            "Camila Cabello",
+            "Ed Sheeran",
+            "The Weeknd",
+            "Billie Eilish",
+            "Rihanna"
+        ],
+        "match_count": 10
+    },
+    "Chris Brown": {
+        "artist_id": "7bXgB6jMjp9ATFy66eO08Z",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Drake",
+            "Nicki Minaj"
+        ],
+        "match_count": 2
+    },
+    "Marshmello": {
+        "artist_id": "64KEffDW9EtZ1y2vBYgq8T",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Post Malone",
+            "Camila Cabello",
+            "DJ Snake",
+            "Ed Sheeran",
+            "Shawn Mendes",
+            "Dua Lipa"
+        ],
+        "match_count": 6
+    },
+    "DJ Snake": {
+        "artist_id": "540vIaP2JwjQb9dm3aArA4",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Camila Cabello",
+            "Marshmello",
+            "Selena Gomez",
+            "Justin Bieber",
+            "Rihanna"
+        ],
+        "match_count": 5
+    },
+    "Daddy Yankee": {
+        "artist_id": "4VMYDCV2IEDYJArk749S6m",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Zion & Lennox",
+            "Nicky Jam",
+            "Farruko",
+            "J Balvin",
+            "Ozuna",
+            "Maluma",
+            "Wisin & Yandel",
+            "Plan B",
+            "Wisin",
+            "Romeo Santos",
+            "Bad Bunny",
+            "Becky G"
+        ],
+        "match_count": 12
+    },
+    "Maluma": {
+        "artist_id": "1r4hJ1h58CWwUQe3MxPuau",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "J Balvin",
+            "Ozuna",
+            "Manuel Turizo",
+            "Romeo Santos",
+            "Nicky Jam",
+            "Farruko",
+            "Piso 21",
+            "Becky G",
+            "Daddy Yankee",
+            "Zion & Lennox",
+            "Bad Bunny",
+            "Yandel",
+            "Wisin",
+            "Rauw Alejandro"
+        ],
+        "match_count": 14
+    },
+    "Ozuna": {
+        "artist_id": "1i8SpTcr7yvPOmcqrbnVXY",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "J Balvin",
+            "Nicky Jam",
+            "Farruko",
+            "Maluma",
+            "Zion & Lennox",
+            "Lunay",
+            "Daddy Yankee",
+            "Bad Bunny",
+            "Sech",
+            "Wisin",
+            "Plan B"
+        ],
+        "match_count": 11
+    },
+    "KAROL G": {
+        "artist_id": "790FomKkXshlbRYZFtlgla",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Manuel Turizo",
+            "Maluma",
+            "Becky G",
+            "Rauw Alejandro",
+            "Bad Bunny",
+            "J Balvin",
+            "Romeo Santos",
+            "Ozuna",
+            "Myke Towers",
+            "Yandel"
+        ],
+        "match_count": 10
+    },
+    "Becky G": {
+        "artist_id": "4obzFoKoKRHIphyHzJ35G3",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Maluma",
+            "Manuel Turizo",
+            "J Balvin",
+            "Daddy Yankee",
+            "Shakira",
+            "Romeo Santos",
+            "Ozuna",
+            "Prince Royce",
+            "Farruko",
+            "Camilo",
+            "Piso 21",
+            "Nicky Jam",
+            "Bad Bunny"
+        ],
+        "match_count": 13
+    },
+    "Nicky Jam": {
+        "artist_id": "1SupJlEpv7RS2tPNRaHViT",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Zion & Lennox",
+            "Ozuna",
+            "Daddy Yankee",
+            "Farruko",
+            "J Balvin",
+            "Wisin",
+            "Maluma",
+            "Yandel",
+            "Sech",
+            "Wisin & Yandel",
+            "Lunay",
+            "Romeo Santos"
+        ],
+        "match_count": 12
+    },
+    "Sech": {
+        "artist_id": "77ziqFxp5gaInVrF2lj4ht",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Lunay",
+            "Yandel",
+            "Ozuna",
+            "Wisin",
+            "De La Ghetto"
+        ],
+        "match_count": 5
+    },
+    "Myke Towers": {
+        "artist_id": "7iK8PXO48WeuP03g8YR51W",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Rauw Alejandro",
+            "Yandel",
+            "Bad Bunny",
+            "Bryant Myers"
+        ],
+        "match_count": 4
+    },
+    "Rauw Alejandro": {
+        "artist_id": "1mcTU81TzQhprhouKaTkpq",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Myke Towers",
+            "Yandel",
+            "Bad Bunny",
+            "Tainy",
+            "Maluma"
+        ],
+        "match_count": 5
+    },
+    "Farruko": {
+        "artist_id": "329e4yvIujISKGKz1BZZbO",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Nicky Jam",
+            "Zion & Lennox",
+            "Daddy Yankee",
+            "Ozuna",
+            "Wisin",
+            "J Balvin",
+            "Maluma",
+            "Sech",
+            "Wisin & Yandel",
+            "Yandel"
+        ],
+        "match_count": 10
+    },
+    "JHAYCO": {
+        "artist_id": "6nVcHLIgY5pE2YCl8ubca1",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Myke Towers",
+            "Rauw Alejandro",
+            "Yandel",
+            "Bryant Myers",
+            "Tainy"
+        ],
+        "match_count": 5
+    },
+    "Lunay": {
+        "artist_id": "47MpMsUfWtgyIIBEFOr4FE",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Sech",
+            "Ozuna"
+        ],
+        "match_count": 2
+    },
+    "Tainy": {
+        "artist_id": "0GM7qgcRCORpGnfcN2tCiB",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Bad Bunny",
+            "Rauw Alejandro",
+            "Myke Towers",
+            "Yandel",
+            "Sech"
+        ],
+        "match_count": 5
+    },
+    "Arcángel": {
+        "artist_id": "4SsVbpTthjScTS7U2hmr1X",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "De La Ghetto",
+            "Yandel",
+            "Plan B"
+        ],
+        "match_count": 3
+    },
+    "Bryant Myers": {
+        "artist_id": "6w9ToX5slZ4uIdmD17hJ3c",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "De La Ghetto"
+        ],
+        "match_count": 1
+    },
+    "De La Ghetto": {
+        "artist_id": "3EiLUeyEcA6fbRPSHkG5kb",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Jowell & Randy"
+        ],
+        "match_count": 1
+    },
+    "Yandel": {
+        "artist_id": "0eHQ9o50hj6ZDNBt6Ys1sD",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Myke Towers",
+            "De La Ghetto",
+            "Rauw Alejandro",
+            "Sech"
+        ],
+        "match_count": 4
+    },
+    "Wisin": {
+        "artist_id": "3E6xrwgnVfYCrCs0ePERDz",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Zion & Lennox",
+            "Farruko",
+            "Nicky Jam",
+            "Wisin & Yandel",
+            "Sech",
+            "Ozuna",
+            "Maluma",
+            "Yandel",
+            "Daddy Yankee",
+            "Lunay"
+        ],
+        "match_count": 10
+    },
+    "Zion & Lennox": {
+        "artist_id": "21451j1KhjAiaYKflxBjr1",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Nicky Jam",
+            "Daddy Yankee",
+            "Farruko",
+            "Wisin",
+            "Ozuna",
+            "J Balvin",
+            "Wisin & Yandel",
+            "Maluma",
+            "Plan B",
+            "Sech",
+            "Romeo Santos"
+        ],
+        "match_count": 11
+    },
+    "NATTI NATASHA": {
+        "artist_id": "1GDbiv3spRmZ1XdM1jQbT7",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Nicky Jam",
+            "Prince Royce",
+            "Wisin",
+            "Maluma",
+            "Zion & Lennox",
+            "Daddy Yankee",
+            "J Balvin",
+            "Piso 21",
+            "Farruko",
+            "Becky G",
+            "Romeo Santos",
+            "Ozuna",
+            "Mau y Ricky",
+            "CNCO",
+            "Chino & Nacho"
+        ],
+        "match_count": 15
+    },
+    "Manuel Turizo": {
+        "artist_id": "0tmwSHipWxN12fsoLcFU3B",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Maluma",
+            "Camilo",
+            "Becky G",
+            "Piso 21",
+            "Ozuna",
+            "Romeo Santos",
+            "Rauw Alejandro",
+            "Yandel",
+            "Bad Bunny",
+            "Myke Towers"
+        ],
+        "match_count": 10
+    },
+    "Reik": {
+        "artist_id": "0vR2qb8m9WHeZ5ByCbimq2",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Camilo",
+            "Morat",
+            "Mau y Ricky",
+            "Pablo Alborán",
+            "Piso 21",
+            "Kany García"
+        ],
+        "match_count": 6
+    },
+    "CNCO": {
+        "artist_id": "0eecdvMrqBftK0M1VKhaF4",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Chino & Nacho",
+            "Luis Fonsi",
+            "Mau y Ricky",
+            "Piso 21",
+            "Prince Royce",
+            "Nicky Jam",
+            "Wisin",
+            "Zion & Lennox"
+        ],
+        "match_count": 8
+    },
+    "Sebastian Yatra": {
+        "artist_id": "07YUOmWljBTXwIseAUd9TW",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Camilo",
+            "Morat",
+            "Mau y Ricky",
+            "Manuel Turizo",
+            "Reik",
+            "Piso 21",
+            "Pablo Alborán",
+            "Maluma",
+            "Becky G"
+        ],
+        "match_count": 9
+    },
+    "Morat": {
+        "artist_id": "5C4PDR4LnhZTbVnKWXuDKD",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Pablo Alborán",
+            "Reik",
+            "Camilo",
+            "Mau y Ricky",
+            "Piso 21"
+        ],
+        "match_count": 5
+    },
+    "Piso 21": {
+        "artist_id": "4bw2Am3p9ji3mYsXNXtQcd",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Mau y Ricky",
+            "Maluma",
+            "Reik",
+            "Camilo",
+            "Manuel Turizo",
+            "Wisin",
+            "Chino & Nacho",
+            "Sech",
+            "Zion & Lennox",
+            "Romeo Santos",
+            "Nicky Jam"
+        ],
+        "match_count": 11
+    },
+    "Mau y Ricky": {
+        "artist_id": "2wkoKEfS6dXwThbyTnZWFU",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Piso 21",
+            "Reik",
+            "Camilo",
+            "Morat",
+            "Chino & Nacho",
+            "Maluma",
+            "Manuel Turizo",
+            "Wisin"
+        ],
+        "match_count": 8
+    },
+    "Camilo": {
+        "artist_id": "28gNT5KBp7IjEOQoevXf9N",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Reik",
+            "Manuel Turizo",
+            "Mau y Ricky",
+            "Kany García",
+            "Morat",
+            "Pablo Alborán",
+            "Piso 21",
+            "Maluma"
+        ],
+        "match_count": 8
+    },
+    "Kany García": {
+        "artist_id": "69UypehHabb68utzfjAVlV",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Camilo",
+            "Reik",
+            "Pablo Alborán",
+            "Alejandro Sanz",
+            "Ricardo Arjona"
+        ],
+        "match_count": 5
+    },
+    "Ricardo Arjona": {
+        "artist_id": "0h1zs4CTlU9D2QtgPxptUD",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Alejandro Sanz"
+        ],
+        "match_count": 1
+    },
+    "Alejandro Sanz": {
+        "artist_id": "5sUrlPAHlS9NEirDB8SEbF",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Pablo Alborán",
+            "Ricardo Arjona",
+            "Kany García",
+            "Paulina Rubio"
+        ],
+        "match_count": 4
+    },
+    "Pablo Alborán": {
+        "artist_id": "5M9Bb4adKAgrOFOhc05Y50",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Morat",
+            "Alejandro Sanz",
+            "Reik",
+            "Camilo",
+            "Kany García"
+        ],
+        "match_count": 5
+    },
+    "Luis Fonsi": {
+        "artist_id": "4V8Sr092TqfHkfAA5fXXqG",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Enrique Iglesias",
+            "Shakira",
+            "CNCO",
+            "Chino & Nacho",
+            "Becky G",
+            "Prince Royce",
+            "Reik"
+        ],
+        "match_count": 7
+    },
+    "Enrique Iglesias": {
+        "artist_id": "7qG3b048QCHVRO5Pv1T5lw",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Luis Fonsi",
+            "Shakira",
+            "Becky G",
+            "Prince Royce",
+            "Reik",
+            "Chino & Nacho",
+            "CNCO",
+            "Maluma"
+        ],
+        "match_count": 8
+    },
+    "Shakira": {
+        "artist_id": "0EmeFodog0BfCgMzAIvKQp",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Becky G",
+            "Enrique Iglesias",
+            "Luis Fonsi",
+            "Manuel Turizo",
+            "Maluma",
+            "Camilo",
+            "Daddy Yankee",
+            "Reik",
+            "J Balvin"
+        ],
+        "match_count": 9
+    },
+    "Thalia": {
+        "artist_id": "23wEWD21D4TPYiJugoXmYb",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Paulina Rubio",
+            "Gloria Trevi",
+            "Ricardo Arjona",
+            "Alejandro Sanz"
+        ],
+        "match_count": 4
+    },
+    "Paulina Rubio": {
+        "artist_id": "1d6dwipPrsFSJVmFTTdFSS",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Gloria Trevi"
+        ],
+        "match_count": 1
+    },
+    "Gloria Trevi": {
+        "artist_id": "1Db5GsIoVWYktPoD2nnPZZ",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Paulina Rubio"
+        ],
+        "match_count": 1
+    },
+    "Alejandra Guzman": {
+        "artist_id": "7Hf9AwMO37bSdxHb0FBGmO",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Gloria Trevi",
+            "Paulina Rubio"
+        ],
+        "match_count": 2
+    },
+    "LA INDIA": {
+        "artist_id": "3NIZFmehJM8YiGpCdihlck",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Marc Anthony"
+        ],
+        "match_count": 1
+    },
+    "Ivy Queen": {
+        "artist_id": "6p2442ymrT9lZEuCZJdYcH",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Wisin & Yandel",
+            "Plan B",
+            "Aventura"
+        ],
+        "match_count": 3
+    },
+    "Celia Cruz": {
+        "artist_id": "2weA6hhVqTIN2gSn9PUB9U",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Marc Anthony",
+            "LA INDIA"
+        ],
+        "match_count": 2
+    },
+    "Marc Anthony": {
+        "artist_id": "4wLXwxDeWQ8mtUIRPxGiD6",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "LA INDIA",
+            "Celia Cruz"
+        ],
+        "match_count": 2
+    },
+    "Romeo Santos": {
+        "artist_id": "5lwmRuXgjX8xIwlnauTZIP",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Aventura",
+            "Prince Royce",
+            "Maluma",
+            "Nicky Jam",
+            "Zion & Lennox",
+            "Wisin",
+            "Ozuna",
+            "Manuel Turizo",
+            "Wisin & Yandel",
+            "Daddy Yankee",
+            "Farruko",
+            "Piso 21",
+            "J Balvin",
+            "Becky G"
+        ],
+        "match_count": 14
+    },
+    "Prince Royce": {
+        "artist_id": "3MHaV05u0io8fQbZ2XPtlC",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Romeo Santos",
+            "Aventura",
+            "Maluma",
+            "Nicky Jam",
+            "Wisin",
+            "Chino & Nacho",
+            "Zion & Lennox",
+            "Manuel Turizo",
+            "Becky G",
+            "Piso 21",
+            "Daddy Yankee",
+            "Ozuna",
+            "J Balvin",
+            "Farruko"
+        ],
+        "match_count": 14
+    },
+    "Aventura": {
+        "artist_id": "1qto4hHid1P71emI6Fd8xi",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Romeo Santos",
+            "Prince Royce",
+            "Wisin & Yandel",
+            "Maluma",
+            "Zion & Lennox",
+            "Wisin",
+            "Daddy Yankee",
+            "Ivy Queen",
+            "Nicky Jam",
+            "Plan B"
+        ],
+        "match_count": 10
+    },
+    "Gente De Zona": {
+        "artist_id": "2cy1zPcrFcXAJTP0APWewL",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Chino & Nacho",
+            "Prince Royce",
+            "CNCO",
+            "Luis Fonsi",
+            "Nicky Jam",
+            "Wisin",
+            "Marc Anthony",
+            "Daddy Yankee",
+            "Zion & Lennox",
+            "Romeo Santos"
+        ],
+        "match_count": 10
+    },
+    "Chino Pacas": {
+        "artist_id": "2rmkQLzj0k4nZdQehOUByO",
+        "related_artists_count": 20,
+        "matches_with_top_100": [],
+        "match_count": 0
+    },
+    "Wisin & Yandel": {
+        "artist_id": "1wZtkThiXbVNtj6hee6dz9",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Plan B",
+            "Wisin",
+            "Zion & Lennox",
+            "Jowell & Randy",
+            "De La Ghetto",
+            "Ivy Queen"
+        ],
+        "match_count": 6
+    },
+    "Plan B": {
+        "artist_id": "2jSGzJw0ebJLu7OLVSOcBP",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "Wisin & Yandel",
+            "De La Ghetto",
+            "Daddy Yankee",
+            "Ozuna",
+            "Zion & Lennox",
+            "Bad Bunny"
+        ],
+        "match_count": 6
+    },
+    "Jowell & Randy": {
+        "artist_id": "4IMAo2UQchVFyPH24PAjUs",
+        "related_artists_count": 20,
+        "matches_with_top_100": [
+            "De La Ghetto",
+            "Wisin & Yandel"
+        ],
+        "match_count": 2
+    },
+    "Alexis Ffrench": {
+        "artist_id": "58R31AvN8JMHM7xkNpVLjX",
+        "related_artists_count": 20,
+        "matches_with_top_100": [],
+        "match_count": 0
+    }
+}

@@ -1,0 +1,11 @@
+pandas
+lets-plot
+requests
+ipython
+python-dotenv
+sqlalchemy
+networkx
+matplotlib
+seaborn
+mplcursors
+numpy
